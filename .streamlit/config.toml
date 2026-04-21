@@ -1,0 +1,15 @@
+[theme]
+base                    = "dark"
+primaryColor            = "#C9A84C"   # Legal gold – used for widgets, active states
+backgroundColor         = "#0D1B2A"   # Deep navy – main background
+secondaryBackgroundColor= "#1A2D45"   # Slightly lighter navy – sidebar & cards
+textColor               = "#E8E8E8"   # Off-white
+font                    = "sans serif"
+
+[server]
+headless      = true
+runOnSave     = true
+enableCORS    = false
+
+[browser]
+gatherUsageStats = false
